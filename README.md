@@ -1,7 +1,6 @@
 - 👋 Hi, I’m YOUNES BELAOUAD
 - 👀 I’m currently a Software Engineer Student in ALX Africa .
-- 🌱 I’m currently learning C language and Web Development .
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C language and Web Development.
 - 📫 How to rech me belaouadyounes13@gmail.com
 
 <!---
