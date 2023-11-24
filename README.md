@@ -1,7 +1,7 @@
 - 👋 Hi, I’m YOUNES BELAOUAD
 - 👀 I’m currently a Software Engineer Student in ALX Africa .
 - 🌱 I’m currently learning C language and Web Development.
-- 📫 How to rech me belaouadyounes13@gmail.com
+- 📫 How to reach me belaouadyounes13@gmail.com
 
 <!---
 LFQIIIH/LFQIIIH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
